@@ -1,0 +1,5 @@
+id,nombre,cedula,fondo_actual,fondo_destino,embargo
+1,Juan Perez,123456789,Porvenix,Colpensionex,False
+2,Ana Gomez,987654321,Porvenix,Colpensionex,True
+3,Luis Martinez,112233445,Colpensionex,Porvenix,False
+
